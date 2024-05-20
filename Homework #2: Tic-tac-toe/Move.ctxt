@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\n\ A\ class\ that\ represents\ a\ player\ move\ in\ a\ Tic-tac-game.\n\n\ @author\ Alexandra\ Guillen\n\ @version\ 1.0\n
+comment1.params=row\ col
+comment1.target=Move\u200B(int,\ int)
+numComments=2

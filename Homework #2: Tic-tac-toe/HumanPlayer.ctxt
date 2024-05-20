@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment0.text=\n\ A\ class\ that\ represents\ a\ human\ Tic-tac-toe\ player\ that\ reads\ moves\ from\ the\ keyboard.\n\n\ @author\ Alexandra\ Guillen\n\ @version\ 1.0\n
+comment1.params=game\ symbol
+comment1.target=HumanPlayer\u200B(Game,\ char)
+comment2.params=
+comment2.target=Move\ pickMove()
+numComments=3

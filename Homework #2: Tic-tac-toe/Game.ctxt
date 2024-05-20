@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ A\ class\ that\ represents\ a\ Tic-tac-toe\ game.\n\n\ @author\ Alexandra\ Guillen\n\ @version\ 1.0\n
+comment1.params=boardSize
+comment1.target=Game(int)
+comment2.params=
+comment2.target=int\ getBoardSize()
+comment3.params=
+comment3.target=void\ resetGame()
+comment4.params=move
+comment4.target=char\ isValidMove\u200B(Move)
+comment5.params=move\ symbol
+comment5.target=boolean\ executeMove\u200B(Move,\ char)
+comment6.params=
+comment6.target=char\ getGameStatus()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=char\ playSingleGame()
+comment9.params=args
+comment9.target=void\ main\u200B(java.lang.String[])
+numComments=10

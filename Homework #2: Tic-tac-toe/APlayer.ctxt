@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=APlayer
+comment0.text=\n\ An\ abstract\ class\ representing\ a\ generic\ Tic-tac-toe\ game\ player.\n\n\ @author\ Alexandra\ Guillen\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=APlayer()
+comment2.params=game\ symbol
+comment2.target=APlayer(Game,\ char)
+comment3.params=
+comment3.target=char\ getSymbol()
+comment4.params=
+comment4.target=Move\ pickMove()
+numComments=5

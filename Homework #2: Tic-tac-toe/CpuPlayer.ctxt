@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CpuPlayer
+comment0.text=\n\ A\ class\ that\ represents\ a\ computer-controlled\ Tic-tac-toe\ player\ that\ implements\ a\ random\ playing\ strategy.\n\n\ @author\ Alexandra\ Guillen\n\ @version\ 1.0\n
+comment1.params=game\ symbol
+comment1.target=CpuPlayer(Game,\ char)
+comment2.params=
+comment2.target=Move\ pickMove()
+numComments=3
